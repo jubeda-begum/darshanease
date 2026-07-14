@@ -238,25 +238,3 @@ Contributions are what make the open-source community such an amazing place to l
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-## 📜 License
-
-Distributed under the **ISC License**. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-## 👨‍💻 Author
-
-**Krishna Mohan Kumar** *B.Tech Computer Science Student at Valency College, Bhopal* *Full Stack Developer | Tech Enthusiast*
-
-Passionate about building **technology solutions that merge spirituality and innovation.**
-
-* **GitHub:** [@Deo-Mohan](https://github.com/Deo-Mohan)
-* **LinkedIn:** [Krishna Mohan Kumar](https://linkedin.com/in/krishna-mohan-kumar)
-
-<p align="center">
-  <br/>
-  ⭐ <i>If you like this project, please consider starring the repository!</i> ⭐
-</p>
